@@ -29,7 +29,7 @@ Estilização personalizada
 git clone <url-do-repositorio>
 
 # Acessar a pasta do projeto
-cd nome-do-projeto
+cd my-tictactoe
 
 # Instalar dependências
 npm install
