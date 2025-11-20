@@ -1,16 +1,66 @@
-# React + Vite
+🧩 Jogo da Velha em React (Tic-Tac-Toe)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este projeto consiste na criação do clássico Jogo da Velha utilizando React e Vite. A aplicação foi desenvolvida para praticar os principais fundamentos do React na construção de interfaces interativas.
 
-Currently, two official plugins are available:
+🚀 Tecnologias utilizadas
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+React
 
-## React Compiler
+Vite
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+JavaScript
 
-## Expanding the ESLint configuration
+CSS
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🛠️ Funcionalidades
+
+Tabuleiro interativo com lógica de jogo
+
+Controle de turno entre jogadores
+
+Verificação automática de vencedor
+
+Botão de reiniciar partida
+
+Estilização personalizada
+
+📦 Como instalar e executar
+# Clonar o repositório
+git clone <url-do-repositorio>
+
+# Acessar a pasta do projeto
+cd nome-do-projeto
+
+# Instalar dependências
+npm install
+
+# Executar em ambiente de desenvolvimento
+npm run dev
+
+📚 Conceitos praticados
+
+Criação e reutilização de componentes
+
+Uso de props e estado
+
+Manipulação de eventos
+
+Renderização condicional
+
+Utilização do hook useState
+
+✨ Principais aprendizados
+
+Como estruturar uma aplicação React com Vite
+
+Como dividir a interface em componentes reutilizáveis
+
+Lógica de controle de estado em jogos interativos
+
+Manipulação de eventos e atualização de UI
+
+Melhoria da aplicação com recursos extras
+
+👤 Autoria
+
+Projeto desenvolvido por Diego, como prática de estudo em React.
